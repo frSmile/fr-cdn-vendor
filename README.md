@@ -1,0 +1,1 @@
+# fr-cdn-vendor
